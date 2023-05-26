@@ -19,9 +19,11 @@ For this part I will use the company Apple (ticker: AAPL) as an example, but in 
 For simplicity I will also consider the interval to be daily, but the program can analyze the daily, weekly and monthly intervals. 
 
 - Mean price change: 1.429564
-- Distribution of days where we had considerable price change over the years: 
+- Distribution of days where we had considerable price change over the years: ![apple_dist1](https://github.com/thimura/stock_analysis/assets/49618034/5ad0fa1a-e080-410c-824b-76c69a336f39)
+
 - Probability that the initial claim works: 0.5490196078431373
-- Distribution including the number of intervals where the initial claim holds: 
+- Distribution including the number of intervals where the initial claim holds: ![apple_dist2](https://github.com/thimura/stock_analysis/assets/49618034/9edd1268-63c5-46e1-ba3a-54ef9fcfa06f)
+
 - Average gain: 2.4108924321910163
 - Average loss: 2.9349994826673242
 - Expected value: 2.220446049250313e-16
